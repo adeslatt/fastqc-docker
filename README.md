@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/adeslatt/fastqc-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adeslatt/fastqc-docker/actions/workflows/docker-image.yml)
 # fastqc-docker
 Build a Container for bioconda fastqc
 
